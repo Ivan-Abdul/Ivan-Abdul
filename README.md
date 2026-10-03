@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently studying Cybersecurity & Digital Forensics at [Leeds Beckett University](https://www.leedsbeckett.ac.uk/). 
+
 <!--
 **Ivan-Abdul/Ivan-Abdul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
