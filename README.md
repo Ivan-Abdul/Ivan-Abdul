@@ -9,7 +9,7 @@ I have accumulated over five years worth of programming skills through my high s
 During my A-level studies, I partook in a project where I designed, implemented, tested and documented a game using the *[Python](https://www.python.org/)* programming language. From this, I gained valuable skills which has helped me succeed as a programmer. 
 
 ### Achievements
-From studying *Computer Science* at both GCSE and A-level, I obtained:
+From studying **Computer Science** at both GCSE and A-level, I obtained:
 - A Grade 7 at GCSE
 - A Grade C at A-level
 - A Grade C for the A-level Project
